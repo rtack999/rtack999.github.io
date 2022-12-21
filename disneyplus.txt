@@ -36,3 +36,4 @@ c.go-mpulse.net
 go-mpulse.net
 akstat.io
 17de4c0d.akstat.io
+trial-eum-clienttons-s.akamaihd.net
