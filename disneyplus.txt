@@ -8,6 +8,7 @@
 @@|0.gravatar.com^$important
 @@|0.pool.ntp.org^$important
 @@|0.wikipedia.com^$important
+bamtech.sc.omtrdc.net
 @@|0eaf.cardinalcommerce.com^$important
 @@|0patch.com^$important
 @@|0xxx.ws^$important
