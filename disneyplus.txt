@@ -34,3 +34,4 @@ image.mail.disneyplus.com
 global.edge.bamgrid.com
 c.go-mpulse.net
 go-mpulse.net
+akstat.io
