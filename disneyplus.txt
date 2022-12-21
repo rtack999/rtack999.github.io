@@ -10,3 +10,4 @@ js-agent.newrelic.com
 disney-plus.net
 dssott.com
 adobedtm.com
+sanalytics.disneyplus.com
