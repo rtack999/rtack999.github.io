@@ -32,3 +32,5 @@ cdn.registerdisney.go.com
 click.mail.disneyplus.com
 image.mail.disneyplus.com
 global.edge.bamgrid.com
+c.go-mpulse.net
+go-mpulse.net
